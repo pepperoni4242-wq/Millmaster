@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WiZ/U6hjAWg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\risky\\source\\repos\\Millmaster\\Millmaster\\Millmaster.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\risky\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.13\\microsoft.net.illink.tasks.10.0.13.nupkg.sha512",
+    "C:\\Users\\risky\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.13\\microsoft.aspnetcore.app.runtime.win-x64.10.0.13.nupkg.sha512",
+    "C:\\Users\\risky\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.13\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.13.nupkg.sha512",
+    "C:\\Users\\risky\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.13\\microsoft.netcore.app.runtime.win-x64.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

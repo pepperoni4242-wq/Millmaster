@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\risky\\source\\repos\\Millmaster\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31AA747E-E2EF-31EA-B019-7535E5C4E656}|Millmaster\\Millmaster.csproj|c:\\users\\risky\\source\\repos\\millmaster\\millmaster\\millmaster.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{31AA747E-E2EF-31EA-B019-7535E5C4E656}|Millmaster\\Millmaster.csproj|solutionrelative:millmaster\\millmaster.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Millmaster",
+              "DocumentMoniker": "C:\\Users\\risky\\source\\repos\\Millmaster\\Millmaster\\Millmaster.csproj",
+              "RelativeDocumentMoniker": "Millmaster\\Millmaster.csproj",
+              "ToolTip": "C:\\Users\\risky\\source\\repos\\Millmaster\\Millmaster\\Millmaster.csproj",
+              "RelativeToolTip": "Millmaster\\Millmaster.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-24T14:41:06.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
